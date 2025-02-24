@@ -1,1 +1,1 @@
-#Django E-commerce Application
+
