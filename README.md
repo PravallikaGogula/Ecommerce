@@ -1,4 +1,4 @@
-Django E-commerce Application
+#Django E-commerce Application
 
 This is a simple e-commerce web application built using Django. The project demonstrates fundamental concepts of Django, including models, views, and template rendering, with SQLite as the database backend.
 
