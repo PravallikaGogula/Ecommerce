@@ -1,8 +1,8 @@
-Django E-commerce Application
+#Django E-commerce Application
 
 A simple e-commerce web application built using Django. This project demonstrates fundamental Django concepts, including models, views, and template rendering, with SQLite as the database backend.
 
-Project Overview
+##Project Overview
 
 This application includes two main models:
 
@@ -10,9 +10,9 @@ Product – Represents items in the e-commerce store, including name, price, sto
 
 Offer – Represents discount offers that can be applied to products.
 
-Models
+#Models
 
-Product Model:
+#Product Model:
 
 name - The name of the product.
 
@@ -22,7 +22,7 @@ stock - The number of available units.
 
 img_url - URL to an image of the product.
 
-Offer Model:
+#Offer Model:
 
 code - A unique discount code.
 
